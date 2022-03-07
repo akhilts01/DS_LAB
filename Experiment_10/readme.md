@@ -1,25 +1,39 @@
 Experiment_10
 
+
 Implementation of queue using array.
 
+
 OUTPUT
+
 Queue
-1. Insert 2. Delete 3.Display 4.Exit 
-1
-Item to be entered : 59
 
 1. Insert 2. Delete 3.Display 4.Exit 
+
 1
+
+Item to be entered : 59
+
+
+1. Insert 2. Delete 3.Display 4.Exit 
+
+1
+
 Item to be entered : 60
 
 1. Insert 2. Delete 3.Display 4.Exit 
+
 3
 
  Queue :59 60 
+ 
 1. Insert 2. Delete 3.Display 4.Exit 
 2
+
 The deleted item is 59
+
 1. Insert 2. Delete 3.Display 4.Exit
+
 1
 Item to be entered : 61
 
